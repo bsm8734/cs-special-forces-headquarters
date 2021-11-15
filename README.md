@@ -2,7 +2,7 @@
 
 OS와 Network 스터디를 위한 레포입니다.
 
-- 운영체제 책: [밑바닥부터 시작하는 딥러닝](http://www.yes24.com/Product/Goods/34970929)
+- 운영체제 책: [운영체제와 정보기술의 원리](http://www.yes24.com/Product/Goods/90124877)
 - 네트워크 책: [컴퓨터 네트워킹 하향식 접근](http://www.yes24.com/Product/Goods/45543957?OzSrank=1)
 
 <br />
